@@ -1,0 +1,139 @@
+/* lte IE 9 style*/
+.ui-corner-tl {
+	border-radius: .6em 0px 0px 0px;
+	position: relative;
+}
+
+.ui-corner-tr {
+	border-radius: 0px .6em 0px 0px;
+	position: relative;
+}
+
+.ui-corner-bl {
+	border-radius: 0px 0px 0px .6em;
+	position: relative;
+}
+
+.ui-corner-br {
+	border-radius: 0px 0px .6em 0px;
+	position: relative;
+}
+
+.ui-corner-top {
+	border-radius: .6em .6em 0px 0px;
+	position: relative;
+}
+
+.ui-corner-bottom {
+	border-radius: 0px 0px .6em .6em;
+	position: relative;
+}
+
+.ui-corner-right {
+	border-radius: 0px .6em .6em 0px;
+	position: relative;
+}
+
+.ui-corner-left {
+	border-radius: .6em 0px 0px .6em;
+	position: relative;
+}
+
+.ui-corner-all {
+	border-radius: .6em;
+	position: relative;
+}
+
+.ui-corner-none {
+	border-radius: 0;
+	position: relative;
+}
+
+.ui-icon,.ui-icon-searchfield:after {
+	border-radius: 9px;
+	position: relative;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min--moz-device-pixel-ratio:1.5),only screen and (min-resolution:240dpi) { }.ui-checkbox .ui-icon {
+	border-radius: 3px;
+	position: relative;
+}
+
+.ui-icon-loading {
+	border-radius: 20px;
+	position: relative;
+}
+
+.ui-btn-corner-tl {
+	border-radius: 1em 0px 0px 0px;
+	position: relative;
+}
+
+.ui-btn-corner-tr {
+	border-radius: 0px 1em 0px 0px;
+	position: relative;
+}
+
+.ui-btn-corner-bl {
+	border-radius: 0px 0px 0px 1em;
+	position: relative;
+}
+
+.ui-btn-corner-br {
+	border-radius: 0px 0px 1em 0px;
+	position: relative;
+}
+
+.ui-btn-corner-top {
+	border-radius: 1em 1em 0px 0px;
+	position: relative;
+}
+
+.ui-btn-corner-bottom {
+	border-radius: 0px 0px 1em 1em;
+	position: relative;
+}
+
+.ui-btn-corner-right {
+	border-radius: 0px 1em 1em 0px;
+	position: relative;
+}
+
+.ui-btn-corner-left {
+	border-radius: 1em 0px 0px 1em;
+	position: relative;
+}
+
+.ui-btn-corner-all {
+	border-radius: 1em;
+	position: relative;
+}
+
+.ui-overlay-shadow {
+	position: relative;
+}
+
+.ui-shadow {
+	position: relative;
+}
+
+.ui-bar-a .ui-shadow,.ui-bar-b .ui-shadow,.ui-bar-c .ui-shadow {
+	position: relative;
+}
+
+.ui-shadow-inset {
+	position: relative;
+}
+
+.ui-icon-shadow {
+	position: relative;
+}
+
+.ui-focus {
+	position: relative;
+}
+
+.ui-mobile-nosupport-boxshadow * {
+	position: relative;
+}
+
