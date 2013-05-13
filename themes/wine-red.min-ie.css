@@ -1,0 +1,59 @@
+/* lte IE 9 style*/
+.ui-corner-all {
+	border-radius: .6em;
+	position: relative;
+}
+
+.ui-icon, .ui-icon-searchfield:after {
+	-pie-background: rgba(158, 44, 62, 1);
+	border-radius: 9px;
+	position: relative;
+}
+
+.ui-icon-alt .ui-icon, .ui-icon-alt .ui-icon-searchfield:after {
+	-pie-background: rgba(255, 255, 255, .3);
+	position: relative;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.3), only screen and (min--moz-device-pixel-ratio:1.3), only screen and (min-resolution:200dpi)  { }.ui-checkbox .ui-icon, .ui-selectmenu-list .ui-icon {
+	border-radius: 3px;
+	position: relative;
+}
+
+.ui-btn-corner-all {
+	border-radius: 1em;
+	position: relative;
+}
+
+.ui-overlay-shadow {
+	position: relative;
+}
+
+.ui-shadow {
+	position: relative;
+}
+
+.ui-bar-a .ui-shadow, .ui-bar-b .ui-shadow, .ui-bar-c .ui-shadow {
+	position: relative;
+}
+
+.ui-shadow-inset {
+	position: relative;
+}
+
+.ui-icon-shadow {
+	position: relative;
+}
+
+.ui-focus, .ui-btn:focus {
+	position: relative;
+}
+
+.ui-input-text.ui-focus, .ui-input-search.ui-focus {
+	position: relative;
+}
+
+.ui-mobile-nosupport-boxshadow * {
+	position: relative;
+}
+
