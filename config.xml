@@ -8,17 +8,17 @@
 </LinearLayout>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.example"
+    id        = "com.vindisere.wine"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>Wine App</name>
 
 <description>
-A simple PhoneGap Build application.
+Wine Selector App.
 </description>
 
-<author href="https://example.com" email="you@example.com">
-Your Name
+<author href="http://vindisere.co.uk" email="appfeedback@vinsidere.co.uk">
+Tahir Ali
 </author>
 
 </widget>
