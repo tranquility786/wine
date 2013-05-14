@@ -1129,11 +1129,11 @@ a.ui-link-inherit {
 }
 .ui-btn-active {
     border:1px solid #4f7e12;
-    background:#9E2C3E;
+    background:#ffffff;
     font-weight:bold;
-    color:#9E2C3E;
+    color:#ffffff;
     cursor:pointer;
-    text-shadow:0 0 0 #9E2C3E;
+    text-shadow:0 0 0 #ffffff;
     text-decoration:none;
     background-image:-webkit-gradient(linear, left top, left bottom, from(#ad3044), to(#8e2737));
     background-image:-webkit-linear-gradient(#ad3044, #8e2737);
@@ -1176,7 +1176,7 @@ a.ui-link-inherit {
     background-image:linear-gradient(to bottom, from(#ad3044), to(#8e2737));
 }
 .ui-btn-active:visited, .ui-btn-active:hover, .ui-btn-active a.ui-link-inherit {
-    color:#9E2C3E;
+    color:#ffffff;
 }
 .ui-btn-inner {
     border-top:1px solid #fff;
@@ -1484,5 +1484,12 @@ a.anchor2 {
 body h1 {
 	color: #FFFFFF;
 	font-family: sansation;
+	font-size: 32px;
+}
+
+body h2 {
+	color: #9E2C3E;
+	font-family: sansation;
 	font-size: 24px;
+	text-align:center;
 }

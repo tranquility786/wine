@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/mailLayout">
+    
+</LinearLayout>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.vindisere.wine"
+        versionCode="10" 
+        version   = "1.0.0">
+
+<name>Wine App</name>
+
+<description>
+Wine Selector App
+</description>
+
+<author href="http://vindisere.co.uk" email="appfeedback@vinsidere.co.uk">
+Tahir Ali
+</author>
+
+</widget>
