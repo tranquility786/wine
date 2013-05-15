@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns	= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		    = "com.vindisere.Wine"
+	version 	= "1.0">
+
+
+	<name>Wine Selector App</name>
+
+
+	<description>
+        This app will delsect the perfect wine to go with the food you are eating.
+	</description>
+
+
+	<author href="http://www.vindisere.co.uk" email="info@vindisere.co.uk">
+		Tahir Ali, Ben Schofield
+	</author>
+
+
+  <icon src="images/app_icon_option_4@x2.png" width="72" height="72" />
+  <icon src="images/app_icon_option_4_48.png" width="48" height="48" />
+  <icon src="images/app_icon_option_4_36.png" width="36" height="36" />
+
+
+  <gap:splash src="images/Default.png" />
+</widget>
+
+
